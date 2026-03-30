@@ -467,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "c_to_multi.kicad_pro",
+    "filename": "MiniBench.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -503,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerber/",
+      "plot": "../Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "footprints/c_to_multi4.step",

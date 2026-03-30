@@ -10,3 +10,6 @@ _autosave-*
 *.tmp
 *.rcv
 fp-info-cache
+Gerbers/
+*.lck
+*-backups/
